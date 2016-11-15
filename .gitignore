@@ -1,0 +1,7 @@
+.DS_Store
+
+#No node Modules for us
+node_modules
+
+#Don't push up the distribution file
+dist
